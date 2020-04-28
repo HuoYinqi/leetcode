@@ -29,7 +29,7 @@ class Solution:
         return ret
 
 test = Solution()
-ans = test.letter_combinations('2')
+ans = test.letter_combinations('25')
 print(ans)
 
         
